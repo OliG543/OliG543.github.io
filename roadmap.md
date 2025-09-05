@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Roadmap
-permalink: /roadmap/
+permalink: /roadmap
 ---
 
 # AI Software Engineering Roadmap

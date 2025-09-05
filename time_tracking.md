@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Time Tracking
-permalink: /time_tracking/
+permalink: /time_tracking
 ---
 
 # Time Tracking
