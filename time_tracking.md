@@ -2,6 +2,9 @@
 ---
 layout: default
 title: Time Tracking
+
+permalink: /time-tracking/
+
 ---
 
 # Time Tracking

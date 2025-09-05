@@ -2,6 +2,8 @@
 ---
 layout: default
 title: Roadmap
+permalink: /roadmap/
+
 ---
 
 # AI Software Engineering Roadmap

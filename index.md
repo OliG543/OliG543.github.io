@@ -1,7 +1,7 @@
 
 ---
-layout: default
-title: Home
+layout: home
+title: Welcome
 ---
 
 # Oliver Griffiths
