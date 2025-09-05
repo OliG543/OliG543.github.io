@@ -1,10 +1,9 @@
-
 title: Oliver Griffiths Portfolio
 email: oliver.griffiths@example.com
 description: >-
   AI Software Engineering Portfolio and Learning Journey
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://OliG543.github.io" # the base hostname & protocol for your site
+url: "https://olig543.github.io" # the base hostname & protocol for your site
 
 markdown: kramdown
 theme: minima
@@ -16,3 +15,10 @@ header_pages:
   - roadmap.md
   - blog.md
   - time_tracking.md
+
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
