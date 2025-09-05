@@ -1,9 +1,8 @@
 
 ---
-layout: default
+layout: page
 title: Roadmap
 permalink: /roadmap/
-
 ---
 
 # AI Software Engineering Roadmap

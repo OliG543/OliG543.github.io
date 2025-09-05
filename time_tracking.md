@@ -1,10 +1,8 @@
 
 ---
-layout: default
+layout: page
 title: Time Tracking
-
-permalink: /time-tracking/
-
+permalink: /time_tracking/
 ---
 
 # Time Tracking
